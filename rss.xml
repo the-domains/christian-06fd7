@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Christian]]></title>
         <description><![CDATA[Christian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian-06fd7/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 04:34:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 04:36:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian-06fd7/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Luchr]]></title>
-            <description><![CDATA[<article><h1>Luchr</h1><p>One of the coolest I’ve found so far</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/600f7cd6830d37f0519bd6f1bf019162/noop?input=https%3A%2F%2Fph-files.imgix.net%2Fd0e506d4-4c69-4fdc-a11e-069763a6de38%3Fauto%3Dformat%26fit%3Dmax%26h%3D570%26w%3D430"></article>]]></description>
+            <description><![CDATA[<article><h1>Luchr</h1><p>One of the coolest I’ve found so far</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bfc0420-0661-4406-b263-2961b4339388.jpg"></article>]]></description>
             <link>https://www.producthunt.com/tech/lurchr</link>
             <guid isPermaLink="false">c2b46212-6e15-4970-abad-c78e299e7393</guid>
-            <pubDate>Fri, 05 Aug 2016 04:34:32 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 04:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
