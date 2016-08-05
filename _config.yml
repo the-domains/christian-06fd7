@@ -6,9 +6,9 @@ color:
   saturation: 0.36972145247273147
   rhythmicContrast: 0.24406839162111282
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#C5C9CC'
+    - '#191F18'
+    - '#9BA8B2'
+    - '#667079'
 name: Christian
